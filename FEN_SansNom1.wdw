@@ -29,6 +29,7 @@ window :
         code : |1+
          pour i=1 a 10
          	trace(i)
+          trace("je suis dans git")
          FIN
         type : 18
       -
